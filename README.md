@@ -1,4 +1,3 @@
-# VSCode/GitHub/Jira
 # 🛸 Projet de Liaison Intergalactique
 
 Bienvenue dans ce projet **hautement expérimental** dont l’objectif principal est de **tester des outils** tout en donnant l’illusion d’un vrai développement logiciel.
