@@ -82,8 +82,3 @@ Un projet inutile est souvent le plus stable.
 Merci VSCode, merci GitHub, merci Jira.
 
 🚀 Fin de transmission.
-
-Lien Jira
-
-EDT-2
-git commit -m "EDT-2 Jira-Git 2"
