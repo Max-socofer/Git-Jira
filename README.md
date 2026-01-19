@@ -2,7 +2,7 @@
 
 Bienvenue dans ce projet **hautement expérimental** dont l’objectif principal est de **tester des outils** tout en donnant l’illusion d’un vrai développement logiciel.
 
-> ⚠️ Spoiler : ce projet ne sert à rien.  
+> ⚠️ Spoiler : ce projet ne sert à rien.   
 > ✅ Mais il le fait très bien.
 
 ---
