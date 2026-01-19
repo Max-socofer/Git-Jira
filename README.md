@@ -85,4 +85,5 @@ Merci VSCode, merci GitHub, merci Jira.
 
 Lien Jira
 
+EDT-1
 git commit -m "EDT-1 Lier Git-Jira"
